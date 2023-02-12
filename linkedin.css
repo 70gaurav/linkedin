@@ -302,7 +302,7 @@ margin-top: 50px;
 }
 .bottom{
     margin-top: 100px;
-    background: url(bottom-bg.png) scroll no-repeat center /cover;
+    background: url(images/bottom-bg.png) scroll no-repeat center /cover;
     height: 100vh
 }
 .bottom h1{
